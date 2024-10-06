@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/shivam_baldha" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_baldha?logo=twitter&style=for-the-badge" alt="shivam_baldha" /></a> </p>
 
-- 🔭 I’m currently working on [R-Engine With Redash](https://metricslabs.kesug.com/r-engine)
+I've worked in data science for more than 4 years. During this time, I've completed various projects and created a platform for my company that makes it easy to do coding with minimal effort like low code or no code platform.
+Developed a product that allows users to create customized industry solutions easily using a drag-and-drop interface.
+In the manufacturing sector, I implemented predictive maintenance (PdM) models and deployed solutions leveraging Generative AI and large language models (LLMs).
 
 - 🌱 I’m currently learning **Gen-AI**
 
